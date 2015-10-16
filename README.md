@@ -1,2 +1,2 @@
 # first_try
-My first try using git hub
+My first try using git hub.
